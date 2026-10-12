@@ -1,4 +1,4 @@
-# My Work Experience
+My Work Experience
 
 I have learnt git through my EPCC Work Experience.
 
@@ -8,4 +8,4 @@ I learnt a bit about the bash shell and git.
 
 ## Second day
 
-I went to see some big computers at the ACF.
+I went to see big computers at the ACF.
