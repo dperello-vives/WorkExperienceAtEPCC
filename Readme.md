@@ -1,6 +1,6 @@
 # My Work Experience
 
-I am learning git through my EPCC Work Experience.
+I have learnt git through my EPCC Work Experience.
 
 ## First day
 
